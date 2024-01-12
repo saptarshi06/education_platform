@@ -22,7 +22,7 @@ const Header = () => {
             <Link to={'/contact'}>
               <Button variant="ghost">Contact Us</Button>
             </Link>
-            <Link to={'/'}>
+            <Link to={'/about'}>
               <Button variant="ghost">About</Button>
             </Link>
             <Link to={'/services'}>
